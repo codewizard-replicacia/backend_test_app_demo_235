@@ -1,0 +1,1 @@
+CREATE SCHEMA IF NOT EXISTS "test_app_demo";
